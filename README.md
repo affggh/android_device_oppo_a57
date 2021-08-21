@@ -1,6 +1,6 @@
 TeamWin Recovery Project
 
-Device configuration for Xiaomi Redmi 4[IN]/4X  (_santoni_)
+Device configuration for OPPO A57  (_CPH1701EX_)
 =====================================================
 
 Basic   | Spec Sheet
