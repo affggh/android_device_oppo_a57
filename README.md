@@ -1,2 +1,2 @@
-# TWRP device tree for Xiaomi Redmi 4 Prime (markw)
-For building TWRP for MSM8953 models only.
+# TWRP device tree for OPPO A57 (CPH1701EX)
+For building TWRP for MSM8937 models only.
