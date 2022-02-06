@@ -50,7 +50,7 @@ BOARD_RAMDISK_OFFSET := 0x01000000
 TARGET_PREBUILT_KERNEL := device/oppo/a57/prebuilt/Image.gz-dtb
 
 # Encryption
-TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/commonsys/cryptfs_hw
+TARGET_CRYPTFS_HW_PATH := device/qcom/common/cryptfs_hw
 TARGET_HW_DISK_ENCRYPTION := true
 
 # Keymaster
